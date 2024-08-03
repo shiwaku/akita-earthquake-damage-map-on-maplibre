@@ -7,26 +7,26 @@
 ## 配色：[秋田県地震被害想定調査報告書](https://www.pref.akita.lg.jp/uploads/public/archive_0000053945_00/%E6%A6%82%E8%A6%81%E7%89%88%5B%E5%8D%B0%E5%88%B7%E7%94%A8%5D.pdf)に準拠
 ### 国土地理院 最適化ベクトルタイルと震度分布図・液状化危険度分布図の通常の重ね合わせ
 > **震度分布図・液状化危険度分布図の不透明度：60%**  
-https://shi-works.github.io/akita-earthquake-damage-map-on-maplibre-gl-js/index1.html
+https://shiwaku.github.io/akita-earthquake-damage-map-on-maplibre/index1.html
 
 ![image](https://github.com/shi-works/akita-earthquake-damage-map-on-maplibre-gl-js/assets/71203808/6fe2b5f4-b823-4059-bf45-4f4f66a318b0)
 
 ### 国土地理院 最適化ベクトルタイルと震度分布図・液状化危険度分布図を合成して重ね合わせ
 > **震度分布図・液状化危険度分布図の不透明度：100%**  
-https://shi-works.github.io/akita-earthquake-damage-map-on-maplibre-gl-js/index2.html
+https://shiwaku.github.io/akita-earthquake-damage-map-on-maplibre/index2.html
 
 ![image](https://github.com/shi-works/akita-earthquake-damage-map-on-maplibre-gl-js/assets/71203808/78b06512-fc02-4661-987d-8b6ab23df562)
 
 ## 配色：[気象庁ホームページにおける気象情報の配色に関する設定指針](https://www.jma.go.jp/jma/kishou/info/colorguide/HPColorGuide_202007.pdf)に準拠
 ### 国土地理院 最適化ベクトルタイルと震度分布図・液状化危険度分布図の通常の重ね合わせ
 > **震度分布図・液状化危険度分布図の不透明度：80%**  
-https://shi-works.github.io/akita-earthquake-damage-map-on-maplibre-gl-js/index3.html
+https://shiwaku.github.io/akita-earthquake-damage-map-on-maplibre/index3.html
 
 ![image](https://github.com/shi-works/akita-earthquake-damage-map-on-maplibre-gl-js/assets/71203808/c2bfdb44-ac37-46fe-8ee9-06bdde3f50ba)
 
 ### 国土地理院 最適化ベクトルタイルと震度分布図・液状化危険度分布図を合成して重ね合わせ
 > **震度分布図・液状化危険度分布図の不透明度：100%**  
-https://shi-works.github.io/akita-earthquake-damage-map-on-maplibre-gl-js/index4.html
+https://shiwaku.github.io/akita-earthquake-damage-map-on-maplibre/index4.html
 
 ![image](https://github.com/shi-works/akita-earthquake-damage-map-on-maplibre-gl-js/assets/71203808/dfb1f81f-8e8e-48d7-a92a-ffa903276b69)
 
