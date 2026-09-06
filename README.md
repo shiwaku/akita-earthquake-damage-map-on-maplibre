@@ -39,35 +39,35 @@ https://shiwaku.github.io/akita-earthquake-damage-map-on-maplibre/index4.html
 - 例：01.pmtilesが1. 能代断層帯です。
 - 1つのPMTilesには、sindo（計測震度）やekijoka（液状化危険度）等の属性が含まれます。
 - 属性の詳細については、[シェープファイル説明資料](https://www.pref.akita.lg.jp/pages/archive/53937)を参照してください。
-1. [01.pmtiles(01_能代断層帯)](https://xs489works.xsrv.jp/pmtiles-data/pref-akita/01.pmtiles)
-2. [02.pmtiles(02_花輪東断層帯)](https://xs489works.xsrv.jp/pmtiles-data/pref-akita/02.pmtiles)
-3. [03.pmtiles(03_男鹿地震)](https://xs489works.xsrv.jp/pmtiles-data/pref-akita/03.pmtiles)
-4. [04.pmtiles(04_天長地震)](https://xs489works.xsrv.jp/pmtiles-data/pref-akita/04.pmtiles)
-5. [05.pmtiles(05_秋田仙北地震震源北方)](https://xs489works.xsrv.jp/pmtiles-data/pref-akita/05.pmtiles)
-6. [06.pmtiles(06_北由利断層)](https://xs489works.xsrv.jp/pmtiles-data/pref-akita/06.pmtiles)
-7. [07.pmtiles(07_秋田仙北地震)](https://xs489works.xsrv.jp/pmtiles-data/pref-akita/07.pmtiles)
-8. [08.pmtiles(08_横手盆地東縁断層帯北部)](https://xs489works.xsrv.jp/pmtiles-data/pref-akita/08.pmtiles)
-9. [09.pmtiles(09_横手盆地東縁断層帯南部)](https://xs489works.xsrv.jp/pmtiles-data/pref-akita/09.pmtiles)
-10. [10.pmtiles(10_真昼山地東縁断層帯北部)](https://xs489works.xsrv.jp/pmtiles-data/pref-akita/10.pmtiles)
-11. [11.pmtiles(11_真昼山地東縁断層帯南部)](https://xs489works.xsrv.jp/pmtiles-data/pref-akita/11.pmtiles)
-12. [12.pmtiles(12_象潟地震)](https://xs489works.xsrv.jp/pmtiles-data/pref-akita/12.pmtiles)
-13. [13.pmtiles(13_横手盆地_真昼山地連動)](https://xs489works.xsrv.jp/pmtiles-data/pref-akita/13.pmtiles)
-14. [14.pmtiles(14_秋田仙北地震震源北方_秋田仙北地震連動)](https://xs489works.xsrv.jp/pmtiles-data/pref-akita/14.pmtiles)
-15. [15.pmtiles(15_天長地震_北由利断層連動)](https://xs489works.xsrv.jp/pmtiles-data/pref-akita/15.pmtiles)
-16. [16.pmtiles(16_津軽山地西縁断層帯南部)](https://xs489works.xsrv.jp/pmtiles-data/pref-akita/16.pmtiles)
-17. [17.pmtiles(17_折爪断層)](https://xs489works.xsrv.jp/pmtiles-data/pref-akita/17.pmtiles)
-18. [18.pmtiles(18_雫石盆地西縁断層帯)](https://xs489works.xsrv.jp/pmtiles-data/pref-akita/18.pmtiles)
-19. [19.pmtiles(19_北上低地西縁断層帯)](https://xs489works.xsrv.jp/pmtiles-data/pref-akita/19.pmtiles)
-20. [20.pmtiles(20_庄内平野東縁断層帯)](https://xs489works.xsrv.jp/pmtiles-data/pref-akita/20.pmtiles)
-21. [21.pmtiles(21_新庄盆地断層帯)](https://xs489works.xsrv.jp/pmtiles-data/pref-akita/21.pmtiles)
-22. [22.pmtiles(22_海域A)](https://xs489works.xsrv.jp/pmtiles-data/pref-akita/22.pmtiles)
-23. [23.pmtiles(23_海域B)](https://xs489works.xsrv.jp/pmtiles-data/pref-akita/23.pmtiles)
-24. [24.pmtiles(24_海域C)](https://xs489works.xsrv.jp/pmtiles-data/pref-akita/24.pmtiles)
-25. [25.pmtiles(25_海域A＋B)](https://xs489works.xsrv.jp/pmtiles-data/pref-akita/25.pmtiles)
-26. [26.pmtiles(26_海域B＋C)](https://xs489works.xsrv.jp/pmtiles-data/pref-akita/26.pmtiles)
-27. [27.pmtiles(27_海域A＋B＋C)](https://xs489works.xsrv.jp/pmtiles-data/pref-akita/27.pmtiles)
-28. [akita-earthquake-data-8layer.pmtiles](https://xs489works.xsrv.jp/pmtiles-data/pref-akita/akita-earthquake-data-8layer.pmtiles) (148MB)※パターン1～8を統合したものです。
-29. [akita-earthquake-data-27layer.pmtiles](https://xs489works.xsrv.jp/pmtiles-data/pref-akita/akita-earthquake-data-27layer.pmtiles) (325MB)※パターン1～27を統合したものです。
+1. [01.pmtiles(01_能代断層帯)](https://shi-works.com/pmtiles/pref-akita/01.pmtiles)
+2. [02.pmtiles(02_花輪東断層帯)](https://shi-works.com/pmtiles/pref-akita/02.pmtiles)
+3. [03.pmtiles(03_男鹿地震)](https://shi-works.com/pmtiles/pref-akita/03.pmtiles)
+4. [04.pmtiles(04_天長地震)](https://shi-works.com/pmtiles/pref-akita/04.pmtiles)
+5. [05.pmtiles(05_秋田仙北地震震源北方)](https://shi-works.com/pmtiles/pref-akita/05.pmtiles)
+6. [06.pmtiles(06_北由利断層)](https://shi-works.com/pmtiles/pref-akita/06.pmtiles)
+7. [07.pmtiles(07_秋田仙北地震)](https://shi-works.com/pmtiles/pref-akita/07.pmtiles)
+8. [08.pmtiles(08_横手盆地東縁断層帯北部)](https://shi-works.com/pmtiles/pref-akita/08.pmtiles)
+9. [09.pmtiles(09_横手盆地東縁断層帯南部)](https://shi-works.com/pmtiles/pref-akita/09.pmtiles)
+10. [10.pmtiles(10_真昼山地東縁断層帯北部)](https://shi-works.com/pmtiles/pref-akita/10.pmtiles)
+11. [11.pmtiles(11_真昼山地東縁断層帯南部)](https://shi-works.com/pmtiles/pref-akita/11.pmtiles)
+12. [12.pmtiles(12_象潟地震)](https://shi-works.com/pmtiles/pref-akita/12.pmtiles)
+13. [13.pmtiles(13_横手盆地_真昼山地連動)](https://shi-works.com/pmtiles/pref-akita/13.pmtiles)
+14. [14.pmtiles(14_秋田仙北地震震源北方_秋田仙北地震連動)](https://shi-works.com/pmtiles/pref-akita/14.pmtiles)
+15. [15.pmtiles(15_天長地震_北由利断層連動)](https://shi-works.com/pmtiles/pref-akita/15.pmtiles)
+16. [16.pmtiles(16_津軽山地西縁断層帯南部)](https://shi-works.com/pmtiles/pref-akita/16.pmtiles)
+17. [17.pmtiles(17_折爪断層)](https://shi-works.com/pmtiles/pref-akita/17.pmtiles)
+18. [18.pmtiles(18_雫石盆地西縁断層帯)](https://shi-works.com/pmtiles/pref-akita/18.pmtiles)
+19. [19.pmtiles(19_北上低地西縁断層帯)](https://shi-works.com/pmtiles/pref-akita/19.pmtiles)
+20. [20.pmtiles(20_庄内平野東縁断層帯)](https://shi-works.com/pmtiles/pref-akita/20.pmtiles)
+21. [21.pmtiles(21_新庄盆地断層帯)](https://shi-works.com/pmtiles/pref-akita/21.pmtiles)
+22. [22.pmtiles(22_海域A)](https://shi-works.com/pmtiles/pref-akita/22.pmtiles)
+23. [23.pmtiles(23_海域B)](https://shi-works.com/pmtiles/pref-akita/23.pmtiles)
+24. [24.pmtiles(24_海域C)](https://shi-works.com/pmtiles/pref-akita/24.pmtiles)
+25. [25.pmtiles(25_海域A＋B)](https://shi-works.com/pmtiles/pref-akita/25.pmtiles)
+26. [26.pmtiles(26_海域B＋C)](https://shi-works.com/pmtiles/pref-akita/26.pmtiles)
+27. [27.pmtiles(27_海域A＋B＋C)](https://shi-works.com/pmtiles/pref-akita/27.pmtiles)
+28. [akita-earthquake-data-8layer.pmtiles](https://shi-works.com/pmtiles/pref-akita/akita-earthquake-data-8layer.pmtiles) (148MB)※パターン1～8を統合したものです。
+29. [akita-earthquake-data-27layer.pmtiles](https://shi-works.com/pmtiles/pref-akita/akita-earthquake-data-27layer.pmtiles) (325MB)※パターン1～27を統合したものです。
 
 - 原初データ出典：[震度分布図及び液状化危険度分布図（シェープファイル）](https://www.pref.akita.lg.jp/pages/archive/53937)
   - ライセンス：[秋田県オープンデータ利用規約（CC BYに従うことでも利用可能）](https://www.pref.akita.lg.jp/pages/archive/36756)
@@ -103,7 +103,7 @@ https://shiwaku.github.io/akita-earthquake-damage-map-on-maplibre/index4.html
 27. 海域A＋B＋C
 
 - 上記の27パターンのシェープファイルをPython（[GDAL/OGR](https://live.osgeo.org/ja/overview/gdal_overview.html)）でFlatGeobuf形式のデータに変換し、リネーム後、下記の[tippecanoe](https://github.com/felt/tippecanoe)のコマンドを実行して作成しています。
-- 27パターンのFlatGeobuf形式のデータ（リネーム前）は[こちらからダウンロード（7zip形式）](https://xs489works.xsrv.jp/pmtiles-data/pref-akita/fgb.7z)できます。
+- 27パターンのFlatGeobuf形式のデータ（リネーム前）は[こちらからダウンロード（7zip形式）](https://shi-works.com/pmtiles/pref-akita/fgb.7z)できます。
 - tippecanoeのバージョンはv2.23.0です。
 - tippecanoeのオプションは以下のとおりです。
 
@@ -140,7 +140,7 @@ read -p "Press any key to continue . . . " -n1 -s
 - PMTilesは、[PMTiles Viewer](https://protomaps.github.io/PMTiles/)で閲覧することができます
 - 下記はPMTiles Viewerでパターン1を表示した例です。
 - url=部分のURLを別のパターンのURLに書き換えると別のパターンでも表示ができます。
-- https://protomaps.github.io/PMTiles/?url=https://xs489works.xsrv.jp/pmtiles-data/pref-akita/01.pmtiles#map=8.09/39.765/140.561
+- https://protomaps.github.io/PMTiles/?url=https://shi-works.com/pmtiles/pref-akita/01.pmtiles#map=8.09/39.765/140.561
 
 ## 背景地図及び地形データ
 - 国土地理院 最適化ベクトルタイル（PMTiles形式）
